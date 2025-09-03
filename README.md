@@ -7,3 +7,4 @@ This repository contains my practice projects in machine learning.
 - [KNN Classifier](knn-classifier/)
 - [Decision Trees](decision-trees/)
 - [Deep Learning](deep-learning/)
+- and so on
